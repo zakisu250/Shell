@@ -1,0 +1,9 @@
+#!/bin/sh
+
+
+# Author : Zaki
+# Copywrite (c)
+
+echo "What is your name?"
+read NAME
+echo "Hello, $NAME"
